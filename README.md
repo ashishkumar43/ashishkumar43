@@ -1,4 +1,8 @@
-![logo](https://github.com/ashishkumar43/ashishkumar43/blob/main/LET%E2%80%99S%20Connect.png)
+
+<div align="center">
+  <img src="https://github.com/ashishkumar43/ashishkumar43/blob/main/LET%E2%80%99S%20Connect.png" alt="Data Science" width="80%">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">🚀 Passionate About Learning & Innovating in Data Science & AI</h3>
 
