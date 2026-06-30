@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/ashishkumar43/ashishkumar43/blob/main/LET%E2%80%99S%20Connect.png" alt="Data Science" width="80%">
+  <img src="https://github.com/ashishkumar43/ashishkumar43/blob/main/Data%20Science%20Banner.png" alt="Data Science" width="80%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
